@@ -20,11 +20,16 @@ Looking for a job? Check out our [open positions](https://settlesweet.welcomekit
 - a list of the results on the left that displays for each result : photo, number of rooms, surface & price
 - When a listing is selected, it should be displayed on the right of the screen with the following information: photo, number of rooms, surface, price, location, description, source url, date of publication
 
-#### Requisit:
+If you need inspiration, you can have a look at this wireframe :
+
+![Lead dev wireframe](wireframe_example.png)
+
+#### Tips:
 - Use the dataset `data/output.csv`
 - Deploy the app on a private cloud server (heroku, AWS, you are free to use whichever you prefer)
 - Extra attention should be put on clear code & documentation
 - Use Django framework
+
 
 
 ## II. Sending Your Results
