@@ -34,7 +34,7 @@ If you need inspiration, you can have a look at this wireframe :
 
 ## II. Sending Your Results
 
-Once you are done, please send your results to someone from Settlesweet.
+Once you are done, please send your results to us.
 
 - If you are already in discussion with us, send it directly to the person you are talking to.
 - If not, use the application form [on every job listing](https://settlesweet.welcomekit.co/).
@@ -42,4 +42,4 @@ Once you are done, please send your results to someone from Settlesweet.
 You can send your Github project link or zip your directory and send it via email.
 If you do not use Github, don't forget to attach your `.git` folder.
 
-Good luck and we are looking forward to hearing back from at [Settlesweet](https://settlesweet.com/).
+Good luck and we are looking forward to hearing back from you at [Settlesweet](https://settlesweet.com/).
